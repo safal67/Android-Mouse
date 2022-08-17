@@ -1,6 +1,5 @@
 > **Co-Author- <a href="https://github.com/reberog">Arpan Anand</a>**</br>
 
-> **To get the System Code change the branch to Java(Windows)**
 
 
 # Android-Mouse
